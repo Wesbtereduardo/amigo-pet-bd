@@ -11,7 +11,7 @@ Este repositório contém os scripts SQL da Experiência Prática IV.
 
 ## Como executar
 1. Abra o MySQL Workbench
-2. Crie o banco:
-   ```sql
-   CREATE DATABASE amigo_pet;
-   USE amigo_pet;
+2. 	Execute: `create_tables.sql`
+4. 	Execute: `insert.sql` 
+5. 	Teste com: `select.sql` 
+6. 	Manipule dados com: `update_delete.sql`
